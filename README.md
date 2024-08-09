@@ -13,6 +13,5 @@ For the released **codes**, please refer to [OpenOOD-VLM](https://github.com/)
   journal={ECCV},
   year={2024}
 }
-}
 ```
 
