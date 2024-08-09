@@ -3,7 +3,7 @@
 
 For the Supplementary Material, please refer to [Supp.](https://github.com/YBZh/LAPT/blob/main/Supp_LAPT.pdf)
 
-For the released **codes**, please refer to [OpenOOD-VLM](https://github.com/)
+For the released **codes**, please refer to [OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM)
 
 
 ```
@@ -12,7 +12,6 @@ For the released **codes**, please refer to [OpenOOD-VLM](https://github.com/)
   author={Zhang, Yabin and Zhu, Wenjie and He, Chenhang and Zhang, Lei},
   journal={ECCV},
   year={2024}
-}
 }
 ```
 
